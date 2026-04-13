@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from pathlib import Path
 
 # 1. Configurando o caminho do arquivo
-pasta_projeto = Path(r"C:\Users\nicoa\OneDrive\Desktop\Cardio IA fase 2\docs")
+pasta_projeto = Path(r"C:\Users\nicoa\OneDrive\Desktop\Cardio IA fase 2\docs") #IMPORTANTE: TROQUE O CAMINHO PARA O DA PASTA ONDE FORAM SALVOS OS ARQUIVOS
 ARQUIVO_CSV = pasta_projeto / "triagem_risco.csv"
 
 def treinar_classificador(caminho_csv):

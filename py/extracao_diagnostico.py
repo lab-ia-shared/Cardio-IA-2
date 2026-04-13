@@ -45,7 +45,7 @@ def analisar_sintomas(frases, mapa):
 # === EXECUÇÃO DO SCRIPT ===
 if __name__ == "__main__":
     # 1. pasta exata onde os arquivos foram salvos
-    pasta_projeto = Path(r"C:\Users\nicoa\OneDrive\Desktop\Cardio IA fase 2\docs")
+    pasta_projeto = Path(r"C:\Users\nicoa\OneDrive\Desktop\Cardio IA fase 2\docs") #IMPORTANTE: TROQUE O CAMINHO PARA O DA PASTA ONDE FORAM SALVOS OS ARQUIVOS
     
     # 2. procurando os arquivos na pasta
     ARQUIVO_TXT = pasta_projeto / "sintomas_pacientes.txt"

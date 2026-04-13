@@ -23,7 +23,7 @@ Confira a demonstração completa do código, testes ao vivo e explicação sobr
 A organização do repositório separa os dados (textos e bases) da lógica de programação (scripts Python):
 
 ```text
-Cardio_IA_Fase2/
+Cardio-IA-2/
 │
 ├── docs/
 │   ├── mapa_conhecimento.csv      # Ontologia relacionando sintomas a doenças

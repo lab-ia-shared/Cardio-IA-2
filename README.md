@@ -14,7 +14,7 @@ Desenvolvemos duas soluções principais:
 
 ## 🎬 Vídeo Demonstrativo
 Confira a demonstração completa do código, testes ao vivo e explicação sobre os vieses do modelo:
-> **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO NO YOUTUBE] (INSERIR LINK AQUI)**
+> **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO NO YOUTUBE](https://www.youtube.com/watch?v=bxAoe8LcUcw)**
 
 ---
 
